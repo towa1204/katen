@@ -8,4 +8,4 @@
   [digitalMakeup.pyの使い方について](https://github.com/towa1204/katen/blob/master/digitalMakeupDoc.md)
 ## 参考文献
 1. [顔を認識して笑い男画像をリアルタイムで貼り付ける](http://rikoubou.hatenablog.com/entry/2019/05/15/172615)
-2. [背景画像にアルファ画像を合成する方法]http://rikoubou.hatenablog.com/entry/2019/05/14/145503
+2. [背景画像にアルファ画像を合成する方法](http://rikoubou.hatenablog.com/entry/2019/05/14/145503)
