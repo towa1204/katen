@@ -12,7 +12,13 @@
 
 ## 使用例
 以下に、**digitalMakeup.py**を使用して、画像を保存した場合の例を示します.
+ 
+>[acworksさん](https://www.photo-ac.com/profile/43626)による[写真AC](https://www.photo-ac.com/)からの写真
+ 
+![20191026_171503](https://user-images.githubusercontent.com/24364250/67629854-7614e180-f8c0-11e9-96ea-b7122ffc3114.png)
+![20191026_171740](https://user-images.githubusercontent.com/24364250/67629873-becc9a80-f8c0-11e9-89be-32fda7c85c52.png)
 
 ## 参考文献
-1. [顔を認識して笑い男画像をリアルタイムで貼り付ける](http://rikoubou.hatenablog.com/entry/2019/05/15/172615)
-2. [背景画像にアルファ画像を合成する方法](http://rikoubou.hatenablog.com/entry/2019/05/14/145503)
+1. [face_recognition](https://github.com/ageitgey/face_recognition)
+2. [顔を認識して笑い男画像をリアルタイムで貼り付ける](http://rikoubou.hatenablog.com/entry/2019/05/15/172615)
+3. [背景画像にアルファ画像を合成する方法](http://rikoubou.hatenablog.com/entry/2019/05/14/145503)
